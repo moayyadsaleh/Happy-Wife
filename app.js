@@ -95,6 +95,9 @@ document.addEventListener("DOMContentLoaded", function () {
     "Have a pizza ready when you know she has a tedious day at work ",
     "Give her nice back rub",
     "Have a Shower with her",
+    "Make Time for Time With Your Wife",
+    "Tell Her How Much She Means to You.",
+    "Become the Best Version of Yourself.",
   ];
 
   // Function to generate a random tip

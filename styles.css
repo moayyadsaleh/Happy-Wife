@@ -37,3 +37,9 @@ body {
   margin-top: 20px;
   color: #333;
 }
+
+.centered-image {
+  display: block;
+  margin: 0 auto;
+  size: 50%;
+}
