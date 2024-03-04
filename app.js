@@ -89,15 +89,16 @@ document.addEventListener("DOMContentLoaded", function () {
     "Take a hot air balloon or helicopter ride for a breathtaking and romantic adventure.",
     "Write a series of love letters and hide them in different places for her to discover throughout the week.",
     "Surprise her with a personalized star map depicting the night sky on a significant date in your relationship.",
-    "Organize a surprise virtual cooking class and prepare a special meal together from the comfort of your homes.",
+    "Organize a surprise cooking class and prepare a special meal together from the comfort of your homes.",
     "Order her favorite meal",
     "Cuddle when she is tired ",
     "Have a pizza ready when you know she has a tedious day at work ",
     "Give her nice back rub",
     "Have a Shower with her",
-    "Make Time for Time With Your Wife",
+    "Make Time for Time With her",
     "Tell Her How Much She Means to You.",
     "Become the Best Version of Yourself.",
+    "Learn more about her, her interests, preferences, likes, dislikes",
   ];
 
   // Function to generate a random tip
